@@ -1,1 +1,1 @@
-# xml-http-request
+# "See more" function
